@@ -4,4 +4,4 @@
 
 ## Overview
 
-The Wild Oasis webiste is a simply client side website
+The Wild Oasis webiste is a simply client side website. Build with react, styled components and various other react libraries.
