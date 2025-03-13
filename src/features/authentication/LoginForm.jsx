@@ -35,7 +35,6 @@ function LoginForm() {
           autoComplete="username"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          disabled={true}
         />
       </FormRowVertical>
 
@@ -46,7 +45,6 @@ function LoginForm() {
           autoComplete="current-password"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
-          disabled={true}
         />
       </FormRowVertical>
       <FormRowVertical>
