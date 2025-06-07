@@ -3,7 +3,7 @@
 # 🌵 The Wild Oasis
 
 ## Description
-The Wild Oasis is a JavaScript project aimed at creating a vibrant and dynamic web application. It utilizes JavaScript for the majority of the development, with additional styling provided by CSS and HTML for structure.
+The Wild Oasis is a React project aimed at creating a vibrant and dynamic web application. It utilizes React for the majority of the development, with additional styling provided by CSS and HTML for structure.
 
 ## Features
 - 🌑 **Dark Mode Support:** The application includes a dark mode feature managed by `DarkModeProvider`, allowing users to switch between light and dark themes seamlessly.
